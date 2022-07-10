@@ -1,0 +1,46 @@
+img{
+    border-radius: 5px !important;
+    gap: 30px;
+}
+.col-md-3{
+    margin: 30px !important;
+    cursor: pointer;
+}
+p{
+    font-weight: bold;
+    font-size: 15px;
+}
+#navbar{
+    background-color: black;
+    height: 10vh;
+    margin-bottom: 30px;
+}
+li{
+    color: white;
+    list-style-type: none;
+    display: inline;
+    margin-left: 30px !important;
+    font-size: 20px;
+    transition: all .5s ease;
+    
+}
+#nav-elements{
+    text-align: center;
+    padding-bottom: 40px;
+    cursor: pointer;
+
+}
+li:hover{
+    color: rgb(156, 156, 156);
+}
+#title{
+    font-size: 30px;
+    margin-top: 20px !important;
+    cursor: pointer;
+}
+#footer{
+    background-color: aqua;
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
